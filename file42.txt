@@ -1,3 +1,9 @@
-some code here
-some dev code here
-end
+
+namespace Example 
+{
+    void Main(int[] args)
+    {
+
+    }
+}
+
